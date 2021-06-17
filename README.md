@@ -3,30 +3,25 @@
 
 
 - ui / ux roadmap
-
 -> https://github.com/togiberlin/ui-ux-designer-roadmap
 
 
 
-web developer roadmap
-
-https://github.com/kamranahmedse/developer-roadmap
-
-
-
-devops roadmap
-
-https://roadmap.sh/devops
+- web developer roadmap
+-> https://github.com/kamranahmedse/developer-roadmap
 
 
 
-android roadmap
-
-https://roadmap.sh/android
-
+- devops roadmap
+-> https://roadmap.sh/devops
 
 
-react roadmap
 
-https://roadmap.sh/react
+- android roadmap
+-> https://roadmap.sh/android
+
+
+
+- react roadmap
+-> https://roadmap.sh/react
 
