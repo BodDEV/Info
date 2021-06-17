@@ -7,8 +7,13 @@
 
 
 
-- web developer roadmap
--> https://github.com/kamranahmedse/developer-roadmap
+- front-end Developer roadmap
+-> https://roadmap.sh/frontend
+
+
+
+- back-end Developer roadmap
+-> https://roadmap.sh/backend
 
 
 
