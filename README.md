@@ -30,3 +30,11 @@
 - react roadmap
 -> https://roadmap.sh/react
 
+
+
+- Front-End Checklist 
+-> https://github.com/thedaviddias/Front-End-Checklist
+
+
+
+
